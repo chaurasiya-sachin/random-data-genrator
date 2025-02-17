@@ -1,0 +1,24 @@
+{
+  "name": "random-data-genrator",
+  "version": "1.0.0",
+  "description": "This is a very simple utilites package it will help you to create some random data which is use full test or sending dummy json data",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "keywords": [
+    "random-data",
+    "user-info",
+    "dummy-user",
+    "dummy-json",
+    "random-integer-genrator",
+    "range",
+    "string",
+    "genrator",
+    "alpha-numeric-string-genrator"
+  ],
+  "author": "sachin chaurasiya",
+  "license": "ISC"
+}
